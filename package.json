@@ -2,7 +2,7 @@
   "name": "clicky-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ajgasca.github.io/clicky-app/",
+  "homepage": "https://ajgasca.github.io/react-clicky-app/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.5",
