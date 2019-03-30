@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Captain America",
+        "image": "/images/captamerica.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Iron Man",
+        "image": "/images/ironman.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Nebula",
+        "image": "/images/nebula.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Rocket",
+        "image": "/images/rocket.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Antman",
+        "image": "/images/antman.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Black Widow",
+        "image": "/images/blackwidow.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Captain Marvel",
+        "image": "/images/captmarvel.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Hawkeye",
+        "image": "/images/hawkeye.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Hulk",
+        "image": "/images/hulk.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Okoye",
+        "image": "/images/okoye.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Thor",
+        "image": "/images/thor.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Valkyrie",
+        "image": "/images/valkyrie.jpeg",
+        "clicked": false
+    }
+]

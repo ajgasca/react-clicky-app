@@ -1,0 +1,14 @@
+.allCards {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    text-align: center;
+}
+
+.allCards img {
+    margin: 5px;
+    border: 5px solid blueviolet;
+    max-height: 300px;
+    max-width: 200px;
+    
+}

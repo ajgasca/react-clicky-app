@@ -1,0 +1,37 @@
+.jumbotron {
+	background-image: url("https://i.redd.it/kg7dlnm296t01.jpg");
+    /* background-blend-mode: lighten; */
+    background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	margin-bottom: 0px;
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'Bank Gothic Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Bank Gothic Medium'), url('/src/fonts/ufonts.com_bank-gothic-medium.woff') format('woff');
+    }
+  
+
+.jumbotron h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 60px;
+	text-transform: uppercase;
+	font-weight: 900;
+    color: blueviolet;
+    text-shadow: 2px 2px 4px black;
+    text-align: right;
+}
+
+.jumbotron p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+    text-transform: uppercase;
+    color: white;
+    text-align: right;
+}
